@@ -1,0 +1,7 @@
+﻿World theme: "Medieval fair [Loop]" by Woli34
+Source: https://opengameart.org/content/medieval-fair-loop
+License: Creative Commons CC0 / public domain
+
+Interface and RPG sound effects: Kenney
+Sources: https://kenney.nl/assets/interface-sounds and https://kenney.nl/assets/rpg-audio
+License: Creative Commons CC0
